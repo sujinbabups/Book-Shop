@@ -8,7 +8,6 @@ This is an HTML CSS project, for a simple bookstore, here i have added some famo
   &nbsp;&nbsp;&nbsp;&nbsp;  List of Books and Authers:&nbsp;&nbsp; Displays the Google logo at the top left corner of the page.  
 
 
-
-***Technologies Used***  
+**Technologies Used**  
 ->&nbsp;&nbsp;HTML5  
 -> &nbsp;&nbsp;CSS
